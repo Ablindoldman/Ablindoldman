@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hi, I'm Shai
+I'm a University of Montana student interested in the Cybersecurity space.
 
+## Current work
+I'm learning Windows Server setup and its functions within it to ensure proper security.
+
+## No current project
+
+## Next step
+Memorize the main command prompts within Windows PowerShell.
 <!--
 **Ablindoldman/Ablindoldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
